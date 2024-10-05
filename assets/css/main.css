@@ -155,7 +155,7 @@ h6 {
 }
 
 .header .logo img {
-  max-height: 36px;
+  max-height: 40px;
   margin-right: 8px;
 }
 
@@ -667,6 +667,11 @@ h6 {
   font-family: var(--heading-font);
 }
 
+.footer .footer-about .footer-logo img {
+  max-height: 40px !important;
+  margin-top: -13px !important;
+}
+
 .footer .footer-contact p {
   margin-bottom: 5px;
 }
@@ -685,6 +690,7 @@ h6 {
   margin-top: 6px;
   font-size: 13px;
 }
+
 
 /*--------------------------------------------------------------
 # Scroll Top Button
